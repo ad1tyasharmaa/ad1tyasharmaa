@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me : through email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im bald
 
 <!---
 ad1tyasharmaa/ad1tyasharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
